@@ -1,0 +1,56 @@
+Test Case 1
+Input:
+Name: Priya
+Marks: 85
+
+Output:
+Grade: B
+
+
+Test Case 2
+Input:
+Name: Komal
+Marks: 90
+
+Output:
+Grade: A
+
+
+Test Case 3
+Input:
+Name: Kiran
+Marks: 70
+
+Output:
+Grade: C
+
+Test Case 4
+Input:
+Name: Mahesh
+Marks: 60
+
+Output:
+Grade: D
+
+Test Case 5
+Input:
+Name: Jiya
+Marks: 50
+
+Output:
+Grade: F
+
+
+Test Case 6
+Input:
+Marks: 120
+
+Output:
+Error: Marks must be between 0 and 100
+
+Test Case 7
+Input:
+Marks: abc
+
+Output:
+Error: Invalid input
